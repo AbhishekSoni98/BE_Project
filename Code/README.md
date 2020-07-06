@@ -7,7 +7,7 @@
 - Faster Script to load the  Transactions in DB Tables.
 4. Master
 - Driver API
-.Key Functions
+-- Key Functions
 a. A
 b. B
 5.Slave1,2,3,4,5
